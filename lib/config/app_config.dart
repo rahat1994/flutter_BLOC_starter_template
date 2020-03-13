@@ -67,7 +67,7 @@ class Colors {
     }
 }
 
-class playerIdClass {
+class PlayerIdClass {
     String _playerId = '';
 
     String playerId() {
